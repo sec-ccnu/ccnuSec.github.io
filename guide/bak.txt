@@ -1,0 +1,131 @@
+        <!-- Slide 6 -->
+        <section>
+          At <span class="ota-red">OpenToAll</span>, we try to do as many CTFs
+          as possible on <a href="https://ctftime.org" target="_blank">CTFTime</a>.
+          <br/>
+          <br/>
+          <a href="https://ctftime.org" target="_blank">CTFTime</a> is essentially
+          a large list of scheduled CTF events throughout the year.
+          <br/>
+          <br/>
+          <b>If you want to know when the next CTF is, visit that website!</b>
+        </section>
+
+        <!-- Slide 7 -->
+        <section>
+          When comes the time to participate in a CTF, we use a <code>Slack</code>
+          bot called <code>@bishop</code>.
+          <br/>
+          <br/>
+          This bot coordinates the whole team. It manages the list of CTFs we play
+          in, the list of challenges we're working on as well as the list of active
+          members working on a specific challenge...
+        </section>
+
+        <!-- Slide 8 -->
+        <section>
+          <code>@bishop</code> commands are simple to use. Below are
+          example commands we use to create and participate in solving the
+          <code>Floppy</code> challenge from <code>Google CTF 2018</code>
+          <br/>
+          <br/>
+          <ul>
+            <li><span class="ota-green">!addctf google-18</span> to
+              create a new <code>#google-18</code> channel.</li>
+            <li><span class="ota-green">!addchallenge floppy</span> to keep track
+              of a the <code>Floppy</code> challenge.</li>
+            <li><span class="ota-green">!workon floppy</span> to notify members
+              that you are working on the <code>Floppy</code> challenge...</li>
+          </ul>
+        </section>
+
+        <!-- Slide 9 -->
+        <section>
+         <code>@bishop</code> will seem intimidating at first.
+         <br/>
+         <br/>
+         You can use <span class="ota-green">!help</span> to get a list of commands
+         to help you out.
+         <br/>
+         <br/>
+         Otherwise, just watch how the other members do it, and you'll get used to
+         it!
+        </section>
+
+        <!-- Slide 10 -->
+        <section>
+          Lastly, <span class="ota-red">OpenToAll</span> tries to encourage
+          learning as much as possible.
+          <br/>
+          <br/>
+          For this reason, we've created
+          <a href="https://university.opentoallctf.com/" target="_blank">
+            OTA University</a>, a wargame made exclusively for
+          <span class="ota-red">OpenToAll</span> members...
+        </section>
+
+        <!-- Slide 11 -->
+        <section>
+          Once you get invited to <span class="ota-red">OpenToAll</span>'s
+          <code>Slack</code>. Join the channel <code>#ota-university</code>
+          for more information.
+        </section>
+
+        <!-- Slide 12 -->
+        <section>
+          Other than
+          <a href="https://university.opentoallctf.com/" target="_blank">
+            OTA University</a>, many members play on online wargames to
+          improve their skills.
+          <br/>
+          <br/>
+          Here are a few that we use...
+        </section>
+
+        <!-- Slide 13 -->
+        <section>
+          <ul>
+            <li>
+              General :
+              <a href="https://root-me.org" target="_blank">Root-me (Beginner)</a>
+            </li>
+            <li>
+              General :
+              <a href="https://ringzer0team.com" target="_blank">Ringzer0team (Intermediate)</a>
+            </li>
+            <li>
+              Cryptography :
+              <a href="https://cryptopals.com" target="_blank">Cryptopals</a>
+            </li>
+            <li>
+              Binary Exploitation :
+              <a href="https://pwnable.kr" target="_blank">pwnable.kr (Beginner - Advanced)</a>
+            </li>
+            <li>
+              Binary Exploitation :
+              <a href="https://pwnable.tw" target="_blank">pwnable.tw (Advanced)</a>
+            </li>
+            <li>
+              Web :
+              <a href="https://websec.fr" target="_blank">Websec (Intermediate)</a>
+            </li>
+            <li>
+              Web :
+              <a href="https://chall.stypr.com" target="_blank">Stypr (Advanced)</a>
+            </li>
+          </ul>
+        </section>
+
+        <!-- Slide 14 -->
+        <section>
+          With that said, you should have everything you need to get started
+          on <span class="ota-red">OpenToAll</span>!
+          <br/>
+          <br/>
+          Now visit this <a href="https://ctf2.typeform.com/to/YylI67" target="_blank">
+            registration form</a> to join our <code>Slack</code>!
+          <br/>
+          <br/>
+          You'll need this flag to get in : <span class="ota-green">
+            OTA{y0u_r34d_th3_rul3z}</span>
+        </section>
